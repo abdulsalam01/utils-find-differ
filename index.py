@@ -23,7 +23,7 @@ def see_differ(file, fileNew, column, idx):
     return diff
 
 # 
-# 
+# Komen apapun
 # EXAMPLE TO USE
 path_excel = ""
 path_file = "output-july_new-6.xlsx"
