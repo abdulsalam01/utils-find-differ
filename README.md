@@ -12,4 +12,4 @@ It's hard to find tools or function that can see differentiate between 2datasest
 ## Version
 v1: It's first version of finding different data by specific column, in the near future let's make it better with support complex things
 
-created by Abdul Salam and Amri Hanif
+created by branch baru Abdul Salam and Amri Hanif
